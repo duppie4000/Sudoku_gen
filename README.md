@@ -1,4 +1,4 @@
-# Sudoku_gen
+# Sudoku Generator & Solver
 
-Sudoku Generator & Solver WIP
+WIP
 Personal project
